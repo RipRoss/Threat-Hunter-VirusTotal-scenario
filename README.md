@@ -5,6 +5,7 @@ Using a platform called VirusTotal which allows you to scan different security i
 Indicators:
 
 google.com
+
 myetherevvalliet.com
 
 ## Success Criteria
